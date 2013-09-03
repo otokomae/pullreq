@@ -1,4 +1,4 @@
 Hello, Pull Request
 ===================
 
-Pull Requestの練習
+Developブランチとかの扱いとか
